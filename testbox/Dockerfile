@@ -1,4 +1,4 @@
-FROM lballabio/boost:yakkety
+FROM lballabio/boost:zesty
 MAINTAINER Luigi Ballabio <luigi.ballabio@gmail.com>
 LABEL Description="A testing environment for building QuantLib and its SWIG bindings"
 
